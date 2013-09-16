@@ -10,6 +10,8 @@ namespace cSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello git");
+            Console.WriteLine("Hello Master");
         }
     }
 }
